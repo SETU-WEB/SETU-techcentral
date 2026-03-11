@@ -1,3 +1,7 @@
 # Table of contents
 
-* [Developer Platform](README.md)
+* [Introduction](README.md)
+* [Announcements](announcements.md)
+* [How to guides](how-to-guides.md)
+* [Frequently Asked Questions](frequently-asked-questions.md)
+* [Mailbox & One Drive Migration](mailbox-and-one-drive-migration.md)

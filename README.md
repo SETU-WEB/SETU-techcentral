@@ -1,63 +1,64 @@
 ---
-description: Welcome to your team’s developer platform
+description: Welcome to an Introduction for Project Confluence
+icon: location-pin
+cover: .gitbook/assets/SETU + Confluence (1).jpg
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
-# Developer Platform
+# Introduction
 
-<h2 align="center">Developer platform template</h2>
+Project Confluence is SETU's newly launched ICT integration programme, focused on consolidating systems across all campuses to support the University's ongoing integration.
 
-<p align="center">Welcome to your team’s new developer platform</p>
+\
+The programme is led by our recently appointed ICT Programme Manager, [Richie Price](https://ie.linkedin.com/in/richie-price-68448a14b). Richie brings a wealth of system integration experience, most recently with Glanbia and Tirlán, where he oversaw global system implementations across North America, Germany, Ireland, and the UK. He will work closely with the Computer Services teams across SETU, as well as with system owners and users across the University, to deliver this programme.
 
-<p align="center"><a href="http://app.gitbook.com/join" class="button primary">Sign up</a> <a href="http://app.gitbook.com/join" class="button secondary">Log in</a></p>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>No code</strong></td><td>Get started with the developer platform in 5 minutes.</td><td><a href="https://app.gitbook.com/o/-Lg9mnhyV3BJhygA9889/s/AS1gFul3W8kEgooAKXJq/">Documentation</a></td><td><a href=".gitbook/assets/no-code.jpg">no-code.jpg</a></td></tr><tr><td><h4><i class="fa-server">:server:</i></h4></td><td><strong>Hosted</strong></td><td>Learn more about hosting the developer platform.</td><td><a href="https://app.gitbook.com/o/-Lg9mnhyV3BJhygA9889/s/AS1gFul3W8kEgooAKXJq/">Documentation</a></td><td><a href=".gitbook/assets/hosted.jpg">hosted.jpg</a></td></tr><tr><td><h4><i class="fa-terminal">:terminal:</i></h4></td><td><strong>API reference</strong></td><td>Browse, test, and implement APIs.</td><td><a href="https://app.gitbook.com/o/-Lg9mnhyV3BJhygA9889/s/dPmSIeutzJQiEvt15nAr/">API Reference</a></td><td><a href=".gitbook/assets/api-reference.jpg">api-reference.jpg</a></td></tr></tbody></table>
 
-{% columns %}
-{% column %}
-### Get started in 5 minutes
+Project Confluence is a multi-year programme of work that will bring many challenges for the University to overcome. The projects outlined below will largely be the focus of activity during 2026:
 
-Setting up your first API call should be the easiest part of getting started. With clear endpoints, copy-paste-ready examples, and quick authentication, you’ll be up and running in minutes—not hours.
+• **Microsoft licence migrations to SETU from WIT**
 
-No guesswork, no complexity—just your first successful call, fast.
+* Staff mailboxes and OneDrive - kicking off February. More communications to follow.
+* MS Teams & SharePoint  &#x20;
+* CRM Dynamics - Kicking off January. More communications to follow.
 
-<a href="https://app.gitbook.com/o/-Lg9mnhyV3BJhygA9889/s/AS1gFul3W8kEgooAKXJq/" class="button primary" data-icon="rocket-launch">Get started</a> <a href="https://app.gitbook.com/o/-Lg9mnhyV3BJhygA9889/s/dPmSIeutzJQiEvt15nAr/" class="button secondary" data-icon="terminal">API reference</a>
-{% endcolumn %}
 
-{% column %}
-{% code title="index.js" overflow="wrap" %}
-```javascript
-// Import the SDK
-import ExampleAPI from "example-api";
 
-// Initialize the client
-const client = new ExampleAPI({ apiKey: "YOUR_API_KEY" });
+• **Unified VLE across all campuses**
 
-// Send your first message
-const response = await client.messages.send({
-  message: "Hello, world!"
-});
+* Project kicking off Q3 2026 with implementation roadmap to be communicated in coming months.
 
-```
-{% endcode %}
-{% endcolumn %}
-{% endcolumns %}
 
-{% columns %}
-{% column %}
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/placeholder.png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
 
-{% column %}
-### Learn more about the developer platform
+• **Common student registration process (all campuses)**
 
-Read guides, watch tutorials, and learn more about working with the developer platform and integrating it with your own stack.
+* Project kicking off January. More communications to follow.
 
-<a href="https://app.gitbook.com/o/-Lg9mnhyV3BJhygA9889/s/8DeMEbfMa8oGohu8rw77/" class="button primary" data-icon="book-open">Guides</a> <a href="https://app.gitbook.com/o/-Lg9mnhyV3BJhygA9889/s/AS1gFul3W8kEgooAKXJq/" class="button secondary" data-icon="book">Documentation</a>
-{% endcolumn %}
-{% endcolumns %}
 
-<h2 align="center">Join a community of over 3,000 developers</h2>
 
-<p align="center">Join our Discord community or create your first PR in just a few steps.</p>
+{% hint style="info" %}
+If you have any questions or queries please reach out to the managed mailbox of [projectconfluence@setu.ie](mailto:projectconfluence@setu.ie)
+{% endhint %}
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><i class="fa-discord">:discord:</i></h4></td><td><strong>Discord community</strong></td><td>Join our Discord community to post questions, get help, and share resources with over 3,000 like-minded developers.</td><td><a href="https://www.gitbook.com/" class="button secondary">Join Discord</a></td><td></td></tr><tr><td><h4><i class="fa-github">:github:</i></h4></td><td><strong>GitHub</strong></td><td>Our product is 100% open source and built by developers just like you. Head to our GitHub repository to learn how to submit your first PR.</td><td><a href="https://www.gitbook.com/" class="button secondary">Submit a PR</a></td><td></td></tr></tbody></table>
+> Lig don turas tosú
+
+<figure><img src=".gitbook/assets/SETU + Confluence (1).jpg" alt=""><figcaption></figcaption></figure>
