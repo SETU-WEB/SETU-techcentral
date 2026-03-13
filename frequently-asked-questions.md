@@ -1,5 +1,5 @@
 ---
-description: Here you can find answers to any questions you may have
+description: Here you can find answers to the most frequently asked questions
 icon: circle-question
 ---
 

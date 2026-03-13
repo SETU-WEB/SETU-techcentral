@@ -1,7 +1,9 @@
 ---
 description: Welcome to an Introduction for Project Confluence
 icon: location-pin
-cover: .gitbook/assets/SETU + Confluence (1).jpg
+cover:
+  light: .gitbook/assets/SETU + Confluence (1).jpg
+  dark: .gitbook/assets/SETU + Confluence.png
 coverY: 0
 layout:
   width: default
@@ -35,7 +37,7 @@ The programme is led by our recently appointed ICT Programme Manager, [Richie Pr
 
 Project Confluence is a multi-year programme of work that will bring many challenges for the University to overcome. The projects outlined below will largely be the focus of activity during 2026:
 
-• **Microsoft licence migrations to SETU from WIT**
+**Microsoft licence migrations to SETU from WIT**
 
 * Staff mailboxes and OneDrive - kicking off February. More communications to follow.
 * MS Teams & SharePoint  &#x20;
@@ -43,13 +45,13 @@ Project Confluence is a multi-year programme of work that will bring many challe
 
 
 
-• **Unified VLE across all campuses**
+**Unified VLE across all campuses**
 
 * Project kicking off Q3 2026 with implementation roadmap to be communicated in coming months.
 
 
 
-• **Common student registration process (all campuses)**
+**Common student registration process (all campuses)**
 
 * Project kicking off January. More communications to follow.
 
@@ -61,4 +63,4 @@ If you have any questions or queries please reach out to the managed mailbox of 
 
 > Lig don turas tosú
 
-<figure><img src=".gitbook/assets/SETU + Confluence (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/SETU + Confluence (1).png" alt=""><figcaption></figcaption></figure>
