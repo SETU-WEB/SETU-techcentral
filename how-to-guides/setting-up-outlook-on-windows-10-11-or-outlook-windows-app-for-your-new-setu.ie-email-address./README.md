@@ -1,7 +1,5 @@
 ---
-description: >-
-  Guides to setting up your new @setu.ie email address for your specific version
-  of Outlook
+description: Guides to setting up your new @setu.ie email address for Outlook
 ---
 
 # Setting up Outlook on Windows 10/11 or Outlook Windows App for your new @setu.ie email address.

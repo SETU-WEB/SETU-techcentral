@@ -1,5 +1,5 @@
 ---
-description: Here you can find all progress updates for Project Confluence
+description: Here you can find all announcements for Project Confluence
 icon: megaphone
 layout:
   width: default
@@ -22,7 +22,7 @@ layout:
 # Announcements
 
 {% updates format="full" %}
-{% update date="2026-03-11" %}
+{% update date="2026-03-16" %}
 ## CRM Dynamics
 
 Dear Colleagues,
@@ -35,10 +35,10 @@ This is a major milestone in the overall system integration roadmap for the Univ
 
 Finally, a special mention to Dave Carthy for leading this initiative out and ensuring a smooth path to live throughout the lifecycle of the project.
 
-If you have any questions in relation to the above message, please contact [ProjectConfluence@setu.ie](mailto:ProjectConfluence@setu.ie)
-
-
+If you have any questions in relation to the above message, please contact [projectconfluence@setu.ie](mailto:projectconfluence@setu.ie)
 
 Thank you again for your continued support.
+
+<figure><img src=".gitbook/assets/SETU + Confluence (2).png" alt=""><figcaption></figcaption></figure>
 {% endupdate %}
 {% endupdates %}

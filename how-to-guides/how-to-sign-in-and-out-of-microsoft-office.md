@@ -14,7 +14,7 @@ description: >-
 
 
 
-3. Under User Information - If signed in with your **@wit.ie** account, click **"Sign out"**
+3. Under **User Information** - If signed in with your **@wit.ie** account, click **"Sign out"**
 
 
 

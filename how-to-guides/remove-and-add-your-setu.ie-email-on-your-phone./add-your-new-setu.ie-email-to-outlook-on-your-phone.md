@@ -4,7 +4,7 @@ description: Guide to add your @setu.ie account to Outlook on your phone
 
 # Add your new @setu.ie email to Outlook on your phone
 
-<mark style="color:$danger;">**ONLY DO THIS AFTER YOUR MIGRATION IS COMPLETE**</mark>
+Only do this after your migration is complete
 
 
 

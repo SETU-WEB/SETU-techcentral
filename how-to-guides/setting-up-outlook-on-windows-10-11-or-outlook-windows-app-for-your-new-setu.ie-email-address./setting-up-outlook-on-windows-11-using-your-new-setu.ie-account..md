@@ -1,5 +1,5 @@
 ---
-description: This guide is ONLY for Windows 11
+description: This guide is only for Windows 11
 ---
 
 # Setting up Outlook on Windows 11 using your new @setu.ie account.

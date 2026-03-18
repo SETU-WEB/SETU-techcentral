@@ -1,5 +1,5 @@
 ---
-description: This guide is ONLY for Windows 10
+description: This guide is only for Windows 10
 ---
 
 # Setting up Outlook on Windows 10 using your new @setu.ie account.
