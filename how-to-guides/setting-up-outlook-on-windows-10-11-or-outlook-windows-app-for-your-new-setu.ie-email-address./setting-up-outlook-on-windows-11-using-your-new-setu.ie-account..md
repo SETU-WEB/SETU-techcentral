@@ -57,3 +57,5 @@ description: This guide is ONLY for Windows 11
 
 
 12. Open **Outlook**
+
+<figure><img src="../../.gitbook/assets/SETU + Confluence (2).png" alt=""><figcaption></figcaption></figure>

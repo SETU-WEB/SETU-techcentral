@@ -33,3 +33,5 @@
 
 
 9. Click **Set as primary account**
+
+<figure><img src="../../.gitbook/assets/SETU + Confluence (2).png" alt=""><figcaption></figcaption></figure>

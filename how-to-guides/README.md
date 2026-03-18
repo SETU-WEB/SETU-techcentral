@@ -32,3 +32,5 @@ icon: arrow-right-to-line
 {% content-ref url="switching-onedrive-from-wit.ie-to-setu.ie.md" %}
 [switching-onedrive-from-wit.ie-to-setu.ie.md](switching-onedrive-from-wit.ie-to-setu.ie.md)
 {% endcontent-ref %}
+
+<figure><img src="../.gitbook/assets/SETU + Confluence (2).png" alt=""><figcaption></figcaption></figure>

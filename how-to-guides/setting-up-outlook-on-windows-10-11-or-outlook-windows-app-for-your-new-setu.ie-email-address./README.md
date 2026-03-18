@@ -18,3 +18,4 @@ description: >-
 [if-you-use-the-new-outlook-for-windows-built-in-windows-app.md](if-you-use-the-new-outlook-for-windows-built-in-windows-app.md)
 {% endcontent-ref %}
 
+<figure><img src="../../.gitbook/assets/SETU + Confluence (2).png" alt=""><figcaption></figcaption></figure>

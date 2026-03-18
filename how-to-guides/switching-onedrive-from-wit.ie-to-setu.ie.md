@@ -59,3 +59,5 @@ description: Guide to switching your OneDrive from @wit.ie to @setu.ie
 
 
 4. OneDrive will reconnect and resync your files.
+
+<figure><img src="../.gitbook/assets/SETU + Confluence (2).png" alt=""><figcaption></figcaption></figure>
