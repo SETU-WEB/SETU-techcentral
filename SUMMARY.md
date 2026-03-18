@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction TEST](README.md)
+* [Introduction](README.md)
 * [Announcements](announcements.md)
 * [How to guides](how-to-guides/README.md)
   * [How to sign in & out of Microsoft Office](how-to-guides/how-to-sign-in-and-out-of-microsoft-office.md)
