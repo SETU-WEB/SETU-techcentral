@@ -29,6 +29,10 @@ icon: arrow-right-to-line
 [if-you-use-the-new-outlook-for-windows-built-in-windows-app.md](setting-up-outlook-on-windows-10-11-or-outlook-windows-app-for-your-new-setu.ie-email-address./if-you-use-the-new-outlook-for-windows-built-in-windows-app.md)
 {% endcontent-ref %}
 
+{% content-ref url="how-to-change-the-time-zone-for-your-outlook-account.md" %}
+[how-to-change-the-time-zone-for-your-outlook-account.md](how-to-change-the-time-zone-for-your-outlook-account.md)
+{% endcontent-ref %}
+
 {% content-ref url="switching-onedrive-from-wit.ie-to-setu.ie.md" %}
 [switching-onedrive-from-wit.ie-to-setu.ie.md](switching-onedrive-from-wit.ie-to-setu.ie.md)
 {% endcontent-ref %}

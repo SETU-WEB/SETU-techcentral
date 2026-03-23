@@ -11,5 +11,6 @@
     * [Setting up Outlook on Windows 10 using your new @setu.ie account.](how-to-guides/setting-up-outlook-on-windows-10-11-or-outlook-windows-app-for-your-new-setu.ie-email-address./setting-up-outlook-on-windows-10-using-your-new-setu.ie-account..md)
     * [Setting up Outlook on Windows 11 using your new @setu.ie account.](how-to-guides/setting-up-outlook-on-windows-10-11-or-outlook-windows-app-for-your-new-setu.ie-email-address./setting-up-outlook-on-windows-11-using-your-new-setu.ie-account..md)
     * [If you use the New Outlook for Windows (built in Windows app)](how-to-guides/setting-up-outlook-on-windows-10-11-or-outlook-windows-app-for-your-new-setu.ie-email-address./if-you-use-the-new-outlook-for-windows-built-in-windows-app.md)
+  * [How to change the time zone for your outlook account](how-to-guides/how-to-change-the-time-zone-for-your-outlook-account.md)
   * [Switching OneDrive from @wit.ie to @setu.ie](how-to-guides/switching-onedrive-from-wit.ie-to-setu.ie.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
