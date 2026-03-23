@@ -1,3 +1,9 @@
+---
+description: >-
+  If you're noticing problems with your time zones on apps such as Microsoft
+  Teams, use the guide below to fix the issue.
+---
+
 # How to change the time zone for your outlook account
 
 1. Log into your outlook account on the web
