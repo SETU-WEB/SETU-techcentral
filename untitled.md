@@ -43,7 +43,7 @@ For information only: the new web address for accessing email in a browser is [w
 2. [Create a new Outlook profile for your @setu.ie account](https://setuireland.gitbook.io/techcentral-1/CjcPXd2OsyzBLqpU8j2W/how-to-guides/setting-up-outlook-on-windows-10-11-or-outlook-windows-app-for-your-new-setu.ie-email-address.)
 3. [Disconnect OneDrive from your @wit.ie account and connect it to your @setu.ie account](https://setuireland.gitbook.io/techcentral-1/CjcPXd2OsyzBLqpU8j2W/how-to-guides/switching-onedrive-from-wit.ie-to-setu.ie)
 4. [Open Microsoft Word on your device, sign out of your @wit.ie account, and sign back in using your @setu.ie account.](https://setuireland.gitbook.io/techcentral-1/CjcPXd2OsyzBLqpU8j2W/how-to-guides/how-to-sign-in-and-out-of-microsoft-office)
-5. [Update email and OneDrive on every device you use, including work and mobile devices.](https://setuireland.gitbook.io/techcentral-1/CjcPXd2OsyzBLqpU8j2W/how-to-guides/switching-onedrive-from-wit.ie-to-setu.ie)
+5. [Update email and OneDrive on every device you use, including work and mobile devices.](how-to-guides/remove-and-add-your-setu.ie-email-on-your-phone..md)
 
 &#x20;
 
