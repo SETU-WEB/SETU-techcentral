@@ -30,12 +30,11 @@ layout:
 
 Project Confluence is SETU's newly launched ICT integration programme, focused on consolidating systems across all campuses to support the University's ongoing integration.
 
-\
-The programme is led by our recently appointed ICT Programme Manager, [Richie Price](https://ie.linkedin.com/in/richie-price-68448a14b). Richie brings a wealth of system integration experience, most recently with Glanbia and Tirlán, where he oversaw global system implementations across North America, Germany, Ireland, and the UK. He will work closely with the Computer Services teams across SETU, as well as with system owners and users across the University, to deliver this programme.
-
-
+The programme is led by our recently appointed ICT Programme Manager, [Richie Price](https://ie.linkedin.com/in/richie-price-68448a14b). Richie brings a wealth of system integration experience, most recently with Glanbia and Tirlán, where he oversaw global system implementations across North America, Germany, Ireland, and the UK. He will work closely with the Computer Services teams across SETU, as well as with system owners and users across the University, to deliver this programme.
 
 Project Confluence is a multi-year programme of work that will bring many challenges for the University to overcome. The projects outlined below will largely be the focus of activity during 2026:
+
+
 
 **Microsoft licence migrations to SETU from WIT**
 
@@ -54,8 +53,6 @@ Project Confluence is a multi-year programme of work that will bring many challe
 **Common student registration process (all campuses)**
 
 * Project kicking off January. More communications to follow.
-
-
 
 {% hint style="info" %}
 If you have any questions or queries please reach out to the managed mailbox of [projectconfluence@setu.ie](mailto:projectconfluence@setu.ie)
