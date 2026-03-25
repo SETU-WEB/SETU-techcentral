@@ -9,24 +9,24 @@ icon: arrow-right-to-line
 [how-to-sign-in-and-out-of-microsoft-office.md](how-to-sign-in-and-out-of-microsoft-office.md)
 {% endcontent-ref %}
 
-{% content-ref url="remove-and-add-your-setu.ie-email-on-your-phone./add-your-new-setu.ie-email-to-outlook-on-your-phone.md" %}
-[add-your-new-setu.ie-email-to-outlook-on-your-phone.md](remove-and-add-your-setu.ie-email-on-your-phone./add-your-new-setu.ie-email-to-outlook-on-your-phone.md)
+{% content-ref url="/broken/pages/zvhWMjjWgh3MGVjAdTK4" %}
+[Broken link](/broken/pages/zvhWMjjWgh3MGVjAdTK4)
 {% endcontent-ref %}
 
-{% content-ref url="remove-and-add-your-setu.ie-email-on-your-phone./remove-your-wit.ie-account-from-the-outlook-on-your-phone.md" %}
-[remove-your-wit.ie-account-from-the-outlook-on-your-phone.md](remove-and-add-your-setu.ie-email-on-your-phone./remove-your-wit.ie-account-from-the-outlook-on-your-phone.md)
+{% content-ref url="/broken/pages/BTWazXR4ZnSdtkND0SbR" %}
+[Broken link](/broken/pages/BTWazXR4ZnSdtkND0SbR)
 {% endcontent-ref %}
 
-{% content-ref url="setting-up-outlook-on-windows-10-11-or-outlook-windows-app-for-your-new-setu.ie-email-address./setting-up-outlook-on-windows-10-using-your-new-setu.ie-account..md" %}
-[setting-up-outlook-on-windows-10-using-your-new-setu.ie-account..md](setting-up-outlook-on-windows-10-11-or-outlook-windows-app-for-your-new-setu.ie-email-address./setting-up-outlook-on-windows-10-using-your-new-setu.ie-account..md)
+{% content-ref url="creating-a-new-outlook-profile-on-windows-10-11-or-windows-app/setting-up-outlook-on-windows-10-using-your-new-setu.ie-account..md" %}
+[setting-up-outlook-on-windows-10-using-your-new-setu.ie-account..md](creating-a-new-outlook-profile-on-windows-10-11-or-windows-app/setting-up-outlook-on-windows-10-using-your-new-setu.ie-account..md)
 {% endcontent-ref %}
 
-{% content-ref url="setting-up-outlook-on-windows-10-11-or-outlook-windows-app-for-your-new-setu.ie-email-address./setting-up-outlook-on-windows-11-using-your-new-setu.ie-account..md" %}
-[setting-up-outlook-on-windows-11-using-your-new-setu.ie-account..md](setting-up-outlook-on-windows-10-11-or-outlook-windows-app-for-your-new-setu.ie-email-address./setting-up-outlook-on-windows-11-using-your-new-setu.ie-account..md)
+{% content-ref url="creating-a-new-outlook-profile-on-windows-10-11-or-windows-app/setting-up-outlook-on-windows-11-using-your-new-setu.ie-account..md" %}
+[setting-up-outlook-on-windows-11-using-your-new-setu.ie-account..md](creating-a-new-outlook-profile-on-windows-10-11-or-windows-app/setting-up-outlook-on-windows-11-using-your-new-setu.ie-account..md)
 {% endcontent-ref %}
 
-{% content-ref url="setting-up-outlook-on-windows-10-11-or-outlook-windows-app-for-your-new-setu.ie-email-address./if-you-use-the-new-outlook-for-windows-built-in-windows-app.md" %}
-[if-you-use-the-new-outlook-for-windows-built-in-windows-app.md](setting-up-outlook-on-windows-10-11-or-outlook-windows-app-for-your-new-setu.ie-email-address./if-you-use-the-new-outlook-for-windows-built-in-windows-app.md)
+{% content-ref url="creating-a-new-outlook-profile-on-windows-10-11-or-windows-app/if-you-use-the-new-outlook-for-windows-built-in-windows-app.md" %}
+[if-you-use-the-new-outlook-for-windows-built-in-windows-app.md](creating-a-new-outlook-profile-on-windows-10-11-or-windows-app/if-you-use-the-new-outlook-for-windows-built-in-windows-app.md)
 {% endcontent-ref %}
 
 {% content-ref url="how-to-change-the-time-zone-for-your-outlook-account.md" %}

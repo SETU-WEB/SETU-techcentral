@@ -30,19 +30,19 @@ You have been selected for Mailbox and OneDrive migration from @wit.ie to @setu.
 
 #### Summary:
 
-Your email and OneDrive will be migrated overnight on \[DATE] starting at 10:00pm.\
+Your email and OneDrive will be migrated overnight on <mark style="background-color:$warning;">\[DATE] starting at 10:00pm.</mark>\
 Please do not log in after 10:00pm as the migration will be running overnight.\
 The next morning, sign in to your laptop or PC using your @setu.ie email address and password, create a new Outlook profile, reconnect OneDrive, sign in to Microsoft Office apps using your @setu.ie account, and check SETU Microsoft Teams for meetings.
 
 For information only: the new web address for accessing email in a browser is [www.outlook.com/setu.ie](http://www.outlook.com/setu.ie).  You do not need to use this unless you access your email on the web.
 
-What you need to do the next morning
+#### What you need to do the next morning
 
 1. Sign in to your laptop or PC using your @setu.ie email address and password
-2. Create a new Outlook profile for your @setu.ie account
-3. Disconnect OneDrive from your @wit.ie account and connect it to your @setu.ie account7
-4. Open Microsoft Word on your device, sign out of your @wit.ie account, and sign back in using your @setu.ie account. If asked whether to sign in to all apps or just this app, choose "Sign in to this app only"
-5. Update email and OneDrive on every device you use, including work and mobile devices.
+2. [Create a new Outlook profile for your @setu.ie account](https://setuireland.gitbook.io/techcentral-1/CjcPXd2OsyzBLqpU8j2W/how-to-guides/setting-up-outlook-on-windows-10-11-or-outlook-windows-app-for-your-new-setu.ie-email-address.)
+3. [Disconnect OneDrive from your @wit.ie account and connect it to your @setu.ie account](https://setuireland.gitbook.io/techcentral-1/CjcPXd2OsyzBLqpU8j2W/how-to-guides/switching-onedrive-from-wit.ie-to-setu.ie)
+4. [Open Microsoft Word on your device, sign out of your @wit.ie account, and sign back in using your @setu.ie account.](https://setuireland.gitbook.io/techcentral-1/CjcPXd2OsyzBLqpU8j2W/how-to-guides/how-to-sign-in-and-out-of-microsoft-office)
+5. [Update email and OneDrive on every device you use, including work and mobile devices.](https://setuireland.gitbook.io/techcentral-1/CjcPXd2OsyzBLqpU8j2W/how-to-guides/switching-onedrive-from-wit.ie-to-setu.ie)
 
 &#x20;
 
