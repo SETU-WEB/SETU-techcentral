@@ -22,16 +22,6 @@ layout:
 # Announcements
 
 {% updates format="full" %}
-{% update date="2026-03-25" %}
-## 700
-
-Dear Colleagues,
-
-The&#x20;
-
-
-{% endupdate %}
-
 {% update date="2026-03-16" %}
 ## CRM Dynamics
 
