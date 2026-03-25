@@ -9,12 +9,8 @@ icon: arrow-right-to-line
 [how-to-sign-in-and-out-of-microsoft-office.md](how-to-sign-in-and-out-of-microsoft-office.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/zvhWMjjWgh3MGVjAdTK4" %}
-[Broken link](/broken/pages/zvhWMjjWgh3MGVjAdTK4)
-{% endcontent-ref %}
-
-{% content-ref url="/broken/pages/BTWazXR4ZnSdtkND0SbR" %}
-[Broken link](/broken/pages/BTWazXR4ZnSdtkND0SbR)
+{% content-ref url="remove-and-add-your-setu.ie-email-on-your-phone..md" %}
+[remove-and-add-your-setu.ie-email-on-your-phone..md](remove-and-add-your-setu.ie-email-on-your-phone..md)
 {% endcontent-ref %}
 
 {% content-ref url="creating-a-new-outlook-profile-on-windows-10-11-or-windows-app/setting-up-outlook-on-windows-10-using-your-new-setu.ie-account..md" %}
