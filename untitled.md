@@ -1,4 +1,5 @@
 ---
+hidden: true
 cover: .gitbook/assets/SETU + Confluence (2).png
 coverY: 0
 layout:
