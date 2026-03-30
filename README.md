@@ -1,10 +1,10 @@
 ---
 description: Welcome to an Introduction for Project Confluence
 icon: location-pin
-cover:
-  light: .gitbook/assets/SETU + Confluence (1).jpg
-  dark: .gitbook/assets/SETU + Confluence.png
-coverY: 0
+cover: >-
+  .gitbook/assets/blue-paper-boats-follow-the-first-yellow-on-a-gree-2026-03-24-14-21-39-utc
+  (1).jpg
+coverY: 355.9875612889375
 layout:
   width: default
   cover:
