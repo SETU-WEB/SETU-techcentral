@@ -36,23 +36,27 @@ Project Confluence is a multi-year programme of work that will bring many challe
 
 
 
-**Microsoft licence migrations to SETU from WIT**
+{% stepper %}
+{% step %}
+### **Microsoft licence migrations to SETU from WIT**
 
 * Staff mailboxes and OneDrive - kicking off February. More communications to follow.
-* MS Teams & SharePoint  &#x20;
+* MS Teams & SharePoint
 * CRM Dynamics - Kicking off January. More communications to follow.
+{% endstep %}
 
+{% step %}
+### **Unified VLE across all campuses**
 
+Project kicking off Q3 2026 with implementation roadmap to be communicated in coming months.
+{% endstep %}
 
-**Unified VLE across all campuses**
+{% step %}
+### **Common student registration process (all campuses)**
 
-* Project kicking off Q3 2026 with implementation roadmap to be communicated in coming months.
-
-
-
-**Common student registration process (all campuses)**
-
-* Project kicking off January. More communications to follow.
+Project kicking off January. More communications to follow.
+{% endstep %}
+{% endstepper %}
 
 {% hint style="info" %}
 If you have any questions or queries please reach out to the managed mailbox of [projectconfluence@setu.ie](mailto:projectconfluence@setu.ie)
