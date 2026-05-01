@@ -22,6 +22,31 @@ layout:
 # Announcements
 
 {% updates format="full" %}
+{% update date="2026-04-29" %}
+## Microsoft Licence Migration Project - Important Update
+
+Dear Colleagues,
+
+The licence migration project team is delighted to announce that we are approx. 70% complete with our Email and OneDrive migrations from WIT to SETU. This level progress to down to the efforts of the project team and also the positive engagement from those successfully migrated.
+
+
+
+**Important announcements to note:**
+
+* If you have not been migrated to date, please continue to use your WIT Email and OneDrive accounts until notified by the Project Confluence team. This communication will only come from the managed mailbox of [ProjectConfluence@setu.ie](mailto:ProjectConfluence@setu.ie) so please monitor your WIT mailbox regularly for your migration date.
+* MS Teams and SharePoint have NOT been migrated yet. The project will communicate go live dates for these migrations by the end of this week.
+
+
+
+**Support**
+
+If you experience any issues after the migration, please contact [ProjectConfluence@setu.ie](mailto:ProjectConfluence@setu.ie)
+
+Thank you for your continued support.
+
+<figure><img src=".gitbook/assets/SETU + Confluence (1).jpg" alt=""><figcaption></figcaption></figure>
+{% endupdate %}
+
 {% update date="2026-03-27" %}
 ## Email & OneDrive Migrations Update & Recognition
 
