@@ -1,13 +1,3 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Announcements](announcements.md)
-* [How to guides](how-to-guides/README.md)
-  * [How to sign in & out of Microsoft Office](how-to-guides/how-to-sign-in-and-out-of-microsoft-office.md)
-  * [Remove & Add your @setu.ie email on your phone.](how-to-guides/remove-and-add-your-setu.ie-email-on-your-phone..md)
-  * [Creating a new Outlook profile on Windows 10/11 or Windows App](how-to-guides/creating-a-new-outlook-profile-on-windows-10-11-or-windows-app/README.md)
-    * [Setting up Outlook on Windows 10 using your new @setu.ie account.](how-to-guides/creating-a-new-outlook-profile-on-windows-10-11-or-windows-app/setting-up-outlook-on-windows-10-using-your-new-setu.ie-account..md)
-    * [Setting up Outlook on Windows 11 using your new @setu.ie account.](how-to-guides/creating-a-new-outlook-profile-on-windows-10-11-or-windows-app/setting-up-outlook-on-windows-11-using-your-new-setu.ie-account..md)
-    * [If you use the New Outlook for Windows (built in Windows app)](how-to-guides/creating-a-new-outlook-profile-on-windows-10-11-or-windows-app/if-you-use-the-new-outlook-for-windows-built-in-windows-app.md)
-  * [Switching OneDrive from @wit.ie to @setu.ie](how-to-guides/switching-onedrive-from-wit.ie-to-setu.ie.md)
-  * [How to change the time zone for your outlook account](how-to-guides/how-to-change-the-time-zone-for-your-outlook-account.md)
+* [Welcome to SETU Tech Central](README.md)
