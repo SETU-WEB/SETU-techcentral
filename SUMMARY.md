@@ -12,4 +12,4 @@
   * [Switching OneDrive from @wit.ie to @setu.ie](how-to-guides/switching-onedrive-from-wit.ie-to-setu.ie.md)
   * [How to change the time zone for your outlook account](how-to-guides/how-to-change-the-time-zone-for-your-outlook-account.md)
 * [Current Migration Batches](current-migration-batches/README.md)
-  * [Pas Migration Batches](current-migration-batches/pas-migration-batches.md)
+  * [Past Migration Batches](current-migration-batches/past-migration-batches.md)
