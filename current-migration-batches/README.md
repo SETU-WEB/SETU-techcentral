@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Current Migration Batches
 
 ## **MS Teams Migration Date** 23rd / 24th May
