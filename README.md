@@ -42,7 +42,7 @@ Project Confluence is a multi-year programme of work that will bring many challe
 
 * Staff mailboxes and OneDrive - kicking off February. More communications to follow.
 * MS Teams & SharePoint
-* CRM Dynamics - Kicking off January. More communications to follow.
+* CRM Dynamics - Migration completed February 2026.
 {% endstep %}
 
 {% step %}
