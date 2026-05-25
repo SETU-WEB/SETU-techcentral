@@ -1,4 +1,80 @@
-# Pas Migration Batches
+# Past Migration Batches
+
+<details>
+
+<summary>Pilot Batch 1 - MS Teams Migration</summary>
+
+## **MS Teams Migration Date 9th / 10th May**
+
+| Current WIT Site Name                                                              | Post Migration SETU Site Name                                                         |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| ‘Out in the club’ – young women’s experiences of the Night Time Economy in Ireland | WD ‘Out in the club’ – young women’s experiences of the Night Time Economy in Ireland |
+| ‘PhD Scholarship Programme WD (SERD)\_2020\_56                                     | WD ‘PhD Scholarship Programme WD (SERD)\_2020\_56                                     |
+| 3DWIT workspace                                                                    | WD 3DWIT workspace                                                                    |
+| 3rd year Nutrition Modules                                                         | WD 3rd year Nutrition Modules                                                         |
+| 3rd Year Psychiatry Group Work Space 2024                                          | WD 3rd Year Psychiatry Group Work Space 2024                                          |
+| AA\&SA Test Team                                                                   | WD AA\&SA Test Team                                                                   |
+| ABT2\_2020-21                                                                      | WD ABT2\_2020-21                                                                      |
+| ABT3\_2020-21                                                                      | WD ABT3\_2020-21                                                                      |
+| ABT4\_2020-21                                                                      | WD ABT4\_2020-21                                                                      |
+| Academic Admin WD                                                                  | WD Academic Admin WD                                                                  |
+| Academic Affairs – Appeals                                                         | WD Academic Affairs – Appeals                                                         |
+| Academic Affairs Office                                                            | WD Academic Affairs Office                                                            |
+| Academic Integration - Faculty of Arts and Humanities SETU Waterford               | WD Academic Integration - Faculty of Arts and Humanities SETU Waterford               |
+| Academic Projects                                                                  | WD Academic Projects                                                                  |
+| Academic Skills Centre                                                             | WD Academic Skills Centre                                                             |
+| Academy for Investment Fund Executive Education and Development                    | WD Academy for Investment Fund Executive Education and Development                    |
+| Access Office                                                                      | WD Access Office                                                                      |
+| Accounting Careers Event Waterford SETU                                            | WD Accounting Careers Event Waterford SETU                                            |
+| Agri ICT WD                                                                        | WD Agri ICT WD                                                                        |
+| AIARG 2025 SETU Waterford                                                          | WD AIARG 2025 SETU Waterford                                                          |
+| AMASE                                                                              | WD AMASE                                                                              |
+| Application 2020                                                                   | WD Application 2020                                                                   |
+| Aptitude Points Working Group                                                      | WD Aptitude Points Working Group                                                      |
+| Arc Support                                                                        | WD Arc Support                                                                        |
+| ARCHIVE - EI Accreditation                                                         | WD ARCHIVE - EI Accreditation                                                         |
+| ArcLabs                                                                            | WD ArcLabs                                                                            |
+| Arts Programme Leadership                                                          | WD Arts Programme Leadership                                                          |
+| Assessment Strategy Whiteboard - Department of Nursing                             | WD Assessment Strategy Whiteboard - Department of Nursing                             |
+| AT-ABT External Examiner                                                           | WD AT-ABT External Examiner                                                           |
+| Athena Swan Self Assessment Team                                                   | WD Athena Swan Self Assessment Team                                                   |
+| Aurora SETU                                                                        | WD Aurora SETU                                                                        |
+| AVD Files and Videos                                                               | WD AVD Files and Videos                                                               |
+| B.Arch External Examiners                                                          | WD B.Arch External Examiners                                                          |
+| BA Arts (Hons) Forum                                                               | WD BA Arts (Hons) Forum                                                               |
+| BA Health Promotion Info area Year 4                                               | WD BA Health Promotion Info area Year 4                                               |
+| BA PHHP                                                                            | WD BA PHHP                                                                            |
+| Bachelor of Business (Hons) Part-time - Information Area                           | WD Bachelor of Business (Hons) Part-time - Information Area                           |
+| Banner 9 Steering Group                                                            | WD Banner 9 Steering Group                                                            |
+| BEng (Hons) in Electronics Programme Board                                         | WD BEng (Hons) in Electronics Programme Board                                         |
+| BEng (Hons) in Sustainable Energy Engineering Repository                           | WD BEng (Hons) in Sustainable Energy Engineering Repository                           |
+| Blank Post Upgrade                                                                 | WD Blank Post Upgrade                                                                 |
+| Blended Learning 2020\_                                                            | WD Blended Learning 2020\_                                                            |
+| Blended Learning Autumn 2020                                                       | WD Blended Learning Autumn 2020                                                       |
+| Blended Learning Generic Material                                                  | WD Blended Learning Generic Material                                                  |
+| BOC Sports Day 2023                                                                | WD BOC Sports Day 2023                                                                |
+| Body Comp & Strength in Nutrition                                                  | WD Body Comp & Strength in Nutrition                                                  |
+| Body Composition of Weight Making Athletes Project                                 | WD Body Composition of Weight Making Athletes Project                                 |
+| BSc (H) in Software Systems Practice Information Area                              | WD BSc (H) in Software Systems Practice Information Area                              |
+| BSc (Hons) in CC and MM Y1                                                         | WD BSc (Hons) in CC and MM Y1                                                         |
+| BSc (Hons) in Exercise Sciences - Student Information Area                         | WD BSc (Hons) in Exercise Sciences - Student Information Area                         |
+| BSc (Hons) in Software Systems Development Info Area                               | WD BSc (Hons) in Software Systems Development Info Area                               |
+| BSc (Ord) in IT info area                                                          | WD BSc (Ord) in IT info area                                                          |
+| BSC in AHC Waterford SETU                                                          | WD BSC in AHC Waterford SETU                                                          |
+| BSc in Software Systems Development (Levels 7 & 8) Info Area                       | WD BSc in Software Systems Development (Levels 7 & 8) Info Area                       |
+| Built Environment Careers Events Waterford SETU                                    | WD Built Environment Careers Events Waterford SETU                                    |
+| Bus Sch Research Team SETU Waterford                                               | WD Bus Sch Research Team SETU Waterford                                               |
+| CALMAST SETU WD                                                                    | WD CALMAST SETU WD                                                                    |
+| Campus Health & Safety SETU Waterford                                              | WD Campus Health & Safety SETU Waterford                                              |
+| CAO Matures                                                                        | WD CAO Matures                                                                        |
+| Capital Projects Minor Projects                                                    | WD Capital Projects Minor Projects                                                    |
+| Capital Projects Waterford                                                         | WD Capital Projects Waterford                                                         |
+| CARE Collab Research                                                               | WD CARE Collab Research                                                               |
+| Care of the Older Adult – Work Placement Year 1                                    | WD Care of the Older Adult – Work Placement Year 1                                    |
+| Careers Centre                                                                     | WD Careers Centre                                                                     |
+| Carers Network WD                                                                  | WD Carers Network WD                                                                  |
+
+</details>
 
 <details>
 
@@ -149,77 +225,81 @@
 
 <details>
 
-<summary>Pilot Batch 1 - MS Teams Migration</summary>
+<summary>Batch 3 - MS Teams Migration</summary>
 
-## **MS Teams Migration Date 9th / 10th May**
+## **MS Teams Migration Date** 23rd / 24th May
 
-| Current WIT Site Name                                                              | Post Migration SETU Site Name                                                         |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| ‘Out in the club’ – young women’s experiences of the Night Time Economy in Ireland | WD ‘Out in the club’ – young women’s experiences of the Night Time Economy in Ireland |
-| ‘PhD Scholarship Programme WD (SERD)\_2020\_56                                     | WD ‘PhD Scholarship Programme WD (SERD)\_2020\_56                                     |
-| 3DWIT workspace                                                                    | WD 3DWIT workspace                                                                    |
-| 3rd year Nutrition Modules                                                         | WD 3rd year Nutrition Modules                                                         |
-| 3rd Year Psychiatry Group Work Space 2024                                          | WD 3rd Year Psychiatry Group Work Space 2024                                          |
-| AA\&SA Test Team                                                                   | WD AA\&SA Test Team                                                                   |
-| ABT2\_2020-21                                                                      | WD ABT2\_2020-21                                                                      |
-| ABT3\_2020-21                                                                      | WD ABT3\_2020-21                                                                      |
-| ABT4\_2020-21                                                                      | WD ABT4\_2020-21                                                                      |
-| Academic Admin WD                                                                  | WD Academic Admin WD                                                                  |
-| Academic Affairs – Appeals                                                         | WD Academic Affairs – Appeals                                                         |
-| Academic Affairs Office                                                            | WD Academic Affairs Office                                                            |
-| Academic Integration - Faculty of Arts and Humanities SETU Waterford               | WD Academic Integration - Faculty of Arts and Humanities SETU Waterford               |
-| Academic Projects                                                                  | WD Academic Projects                                                                  |
-| Academic Skills Centre                                                             | WD Academic Skills Centre                                                             |
-| Academy for Investment Fund Executive Education and Development                    | WD Academy for Investment Fund Executive Education and Development                    |
-| Access Office                                                                      | WD Access Office                                                                      |
-| Accounting Careers Event Waterford SETU                                            | WD Accounting Careers Event Waterford SETU                                            |
-| Agri ICT WD                                                                        | WD Agri ICT WD                                                                        |
-| AIARG 2025 SETU Waterford                                                          | WD AIARG 2025 SETU Waterford                                                          |
-| AMASE                                                                              | WD AMASE                                                                              |
-| Application 2020                                                                   | WD Application 2020                                                                   |
-| Aptitude Points Working Group                                                      | WD Aptitude Points Working Group                                                      |
-| Arc Support                                                                        | WD Arc Support                                                                        |
-| ARCHIVE - EI Accreditation                                                         | WD ARCHIVE - EI Accreditation                                                         |
-| ArcLabs                                                                            | WD ArcLabs                                                                            |
-| Arts Programme Leadership                                                          | WD Arts Programme Leadership                                                          |
-| Assessment Strategy Whiteboard - Department of Nursing                             | WD Assessment Strategy Whiteboard - Department of Nursing                             |
-| AT-ABT External Examiner                                                           | WD AT-ABT External Examiner                                                           |
-| Athena Swan Self Assessment Team                                                   | WD Athena Swan Self Assessment Team                                                   |
-| Aurora SETU                                                                        | WD Aurora SETU                                                                        |
-| AVD Files and Videos                                                               | WD AVD Files and Videos                                                               |
-| B.Arch External Examiners                                                          | WD B.Arch External Examiners                                                          |
-| BA Arts (Hons) Forum                                                               | WD BA Arts (Hons) Forum                                                               |
-| BA Health Promotion Info area Year 4                                               | WD BA Health Promotion Info area Year 4                                               |
-| BA PHHP                                                                            | WD BA PHHP                                                                            |
-| Bachelor of Business (Hons) Part-time - Information Area                           | WD Bachelor of Business (Hons) Part-time - Information Area                           |
-| Banner 9 Steering Group                                                            | WD Banner 9 Steering Group                                                            |
-| BEng (Hons) in Electronics Programme Board                                         | WD BEng (Hons) in Electronics Programme Board                                         |
-| BEng (Hons) in Sustainable Energy Engineering Repository                           | WD BEng (Hons) in Sustainable Energy Engineering Repository                           |
-| Blank Post Upgrade                                                                 | WD Blank Post Upgrade                                                                 |
-| Blended Learning 2020\_                                                            | WD Blended Learning 2020\_                                                            |
-| Blended Learning Autumn 2020                                                       | WD Blended Learning Autumn 2020                                                       |
-| Blended Learning Generic Material                                                  | WD Blended Learning Generic Material                                                  |
-| BOC Sports Day 2023                                                                | WD BOC Sports Day 2023                                                                |
-| Body Comp & Strength in Nutrition                                                  | WD Body Comp & Strength in Nutrition                                                  |
-| Body Composition of Weight Making Athletes Project                                 | WD Body Composition of Weight Making Athletes Project                                 |
-| BSc (H) in Software Systems Practice Information Area                              | WD BSc (H) in Software Systems Practice Information Area                              |
-| BSc (Hons) in CC and MM Y1                                                         | WD BSc (Hons) in CC and MM Y1                                                         |
-| BSc (Hons) in Exercise Sciences - Student Information Area                         | WD BSc (Hons) in Exercise Sciences - Student Information Area                         |
-| BSc (Hons) in Software Systems Development Info Area                               | WD BSc (Hons) in Software Systems Development Info Area                               |
-| BSc (Ord) in IT info area                                                          | WD BSc (Ord) in IT info area                                                          |
-| BSC in AHC Waterford SETU                                                          | WD BSC in AHC Waterford SETU                                                          |
-| BSc in Software Systems Development (Levels 7 & 8) Info Area                       | WD BSc in Software Systems Development (Levels 7 & 8) Info Area                       |
-| Built Environment Careers Events Waterford SETU                                    | WD Built Environment Careers Events Waterford SETU                                    |
-| Bus Sch Research Team SETU Waterford                                               | WD Bus Sch Research Team SETU Waterford                                               |
-| CALMAST SETU WD                                                                    | WD CALMAST SETU WD                                                                    |
-| Campus Health & Safety SETU Waterford                                              | WD Campus Health & Safety SETU Waterford                                              |
-| CAO Matures                                                                        | WD CAO Matures                                                                        |
-| Capital Projects Minor Projects                                                    | WD Capital Projects Minor Projects                                                    |
-| Capital Projects Waterford                                                         | WD Capital Projects Waterford                                                         |
-| CARE Collab Research                                                               | WD CARE Collab Research                                                               |
-| Care of the Older Adult – Work Placement Year 1                                    | WD Care of the Older Adult – Work Placement Year 1                                    |
-| Careers Centre                                                                     | WD Careers Centre                                                                     |
-| Carers Network WD                                                                  | WD Carers Network WD                                                                  |
+| Current WIT Site Name                                                   | Post Migration SETU Site Name                                              |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| GSO-Liaison Group                                                       | WD GSO-Liaison Group                                                       |
+| Gut health Nutrition                                                    | WD Gut health Nutrition                                                    |
+| HAL                                                                     | WD HAL                                                                     |
+| HCI Pillar Funded Admissions                                            | WD HCI Pillar Funded Admissions                                            |
+| HCI Solo Bid                                                            | WD HCI Solo Bid                                                            |
+| HDip in Computer Science                                                | WD HDip in Computer Science                                                |
+| HEA Space Survey                                                        | WD HEA Space Survey                                                        |
+| Health Science Boardroom Waterford SETU                                 | WD Health Science Boardroom Waterford SETU                                 |
+| HEA-RPL                                                                 | WD HEA-RPL                                                                 |
+| HEPA Europe Project                                                     | WD HEPA Europe Project                                                     |
+| Higher Dip in Business System Analysis - Staff Only                     | WD Higher Dip in Business System Analysis - Staff Only                     |
+| Home Economics Programme Development                                    | WD Home Economics Programme Development                                    |
+| HR                                                                      | WD HR                                                                      |
+| HRB Summer Schlr                                                        | WD HRB Summer Schlr                                                        |
+| Human Capital Initiative                                                | WD Human Capital Initiative                                                |
+| Humanities Admin                                                        | WD Humanities Admin                                                        |
+| Humanities Postgrad Supervision 2023.WD                                 | WD Humanities Postgrad Supervision 2023.WD                                 |
+| IAM Conference 2021                                                     | WD IAM Conference 2021                                                     |
+| ID Path 4                                                               | WD ID Path 4                                                               |
+| ID Risk Feeding                                                         | WD ID Risk Feeding                                                         |
+| IGNITION Research Project                                               | WD IGNITION Research Project                                               |
+| ILE SETU PhD                                                            | WD ILE SETU PhD                                                            |
+| Implementation of the Consent Framework                                 | WD Implementation of the Consent Framework                                 |
+| Ink Way Writers' Program, School of Business                            | WD Ink Way Writers' Program, School of Business                            |
+| Innovation Team                                                         | WD Innovation Team                                                         |
+| Intellectual Disability Nursing Programme Team                          | WD Intellectual Disability Nursing Programme Team                          |
+| Internationalisation at SETU                                            | WD Internationalisation at SETU                                            |
+| Internationalisation Project Waterford SETU                             | WD Internationalisation Project Waterford SETU                             |
+| IP Pragmatics KT TUSEI Strategy 2021                                    | WD IP Pragmatics KT TUSEI Strategy 2021                                    |
+| ISER 2020                                                               | WD ISER 2020                                                               |
+| ISP Dissertation Supervisors 2015-16                                    | WD ISP Dissertation Supervisors 2015-16                                    |
+| IT and Computing Careers Events SETU Waterford                          | WD IT and Computing Careers Events SETU Waterford                          |
+| JM Test Team                                                            | WD JM Test Team                                                            |
+| LDC                                                                     | WD LDC                                                                     |
+| LDC Exam Boards                                                         | WD LDC Exam Boards                                                         |
+| LDC Level 6 Programme Information Area                                  | WD LDC Level 6 Programme Information Area                                  |
+| Learning and Teaching Committee WD                                      | WD Learning and Teaching Committee WD                                      |
+| Legal Studies with Business Info Area                                   | WD Legal Studies with Business Info Area                                   |
+| LI4team                                                                 | WD LI4team                                                                 |
+| Library Learning Support                                                | WD Library Learning Support                                                |
+| Library Management                                                      | WD Library Management                                                      |
+| Literacy Development Centre                                             | WD Literacy Development Centre                                             |
+| LLL Integration                                                         | WD LLL Integration                                                         |
+| LMS ID Group                                                            | WD LMS ID Group                                                            |
+| M P and E                                                               | WD M P and E                                                               |
+| MA English Project                                                      | WD MA English Project                                                      |
+| MAME\_research projects                                                 | WD MAME\_research projects                                                 |
+| Management Forum                                                        | WD Management Forum                                                        |
+| Management of Care – Work Placement Yr 3                                | WD Management of Care – Work Placement Yr 3                                |
+| Marie Test Lect                                                         | WD Marie Test Lect                                                         |
+| Maries Team                                                             | WD Maries Team                                                             |
+| Marketing and Promotions in the School of Science & Computing           | WD Marketing and Promotions in the School of Science & Computing           |
+| Marketing Office                                                        | WD Marketing Office                                                        |
+| Master of Architecture (M.Arch)                                         | WD Master of Architecture (M.Arch)                                         |
+| Mat Services for Intel D                                                | WD Mat Services for Intel D                                                |
+| MBS in Lean Enterprise Excellence                                       | WD MBS in Lean Enterprise Excellence                                       |
+| MBS Prog Leader                                                         | WD MBS Prog Leader                                                         |
+| Medical Surgical – Work Placement Year 2                                | WD Medical Surgical – Work Placement Year 2                                |
+| MENO-ID                                                                 | WD MENO-ID                                                                 |
+| Microcredential article                                                 | WD Microcredential article                                                 |
+| Migrate Me                                                              | WD Migrate Me                                                              |
+| MigrationTest                                                           | WD MigrationTest                                                           |
+| Module 2. Design for Additive Manufacturing                             | WD Module 2. Design for Additive Manufacturing                             |
+| Module 3. Additive Manufacturing Health & Safety and Regulatory Affairs | WD Module 3. Additive Manufacturing Health & Safety and Regulatory Affairs |
+| Module 4. Additive Manufacturing Lab Technologies & Post Processing     | WD Module 4. Additive Manufacturing Lab Technologies & Post Processing     |
+| Module 5. Additive Manufacturing Applied Project                        | WD Module 5. Additive Manufacturing Applied Project                        |
+| Monitor the Effects of Online Delivery on Students                      | WD Monitor the Effects of Online Delivery on Students                      |
+| Moodle Architecture Workshop                                            | WD Moodle Architecture Workshop                                            |
+| Moodle Blank Module                                                     | WD Moodle Blank Module                                                     |
 
 </details>
 
