@@ -1,10 +1,11 @@
 ---
+hidden: true
 icon: dove
 ---
 
 # Current Migration Batches
 
-## **MS Teams Migration Date** 23rd / 24th May
+## **MS Teams Migration Date** 6th / 7th June
 
 | Current WIT Site Name                             | Post Migration SETU Site Name                        |
 | ------------------------------------------------- | ---------------------------------------------------- |
