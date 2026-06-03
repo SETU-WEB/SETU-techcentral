@@ -6,7 +6,7 @@ icon: dove
 
 ## **MS Teams Migration Date** 6th / 7th June
 
-| Current WIT Site Name                             | Post Migration SETU Site Name                        |
+| EDIH TWG AgriFood                                 | WD EDIH TWG AgriFood                                 |
 | ------------------------------------------------- | ---------------------------------------------------- |
 | 3AI                                               | WD 3AI                                               |
 | 5GMediaHUB                                        | WD 5GMediaHUB                                        |
