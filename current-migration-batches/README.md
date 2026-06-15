@@ -8,6 +8,8 @@ icon: dove
 
 ## **Date 20**th / 21st June
 
+### MS Teams
+
 | Current WIT Site name                                                | Post Migration SETU Site Name                                           |
 | -------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | Retention Group                                                      | WD Retention Group                                                      |
@@ -30,3 +32,12 @@ icon: dove
 | Sport and Exercise Science Taught Postgraduate                       | WD Sport and Exercise Science Taught Postgraduate                       |
 | Sports Work Placement Admin                                          | WD Sports Work Placement Admin                                          |
 | STAFF - YR 4 ART                                                     | WD STAFF - YR 4 ART                                                     |
+
+### SharePoint
+
+| Current WIT Site name                    | Post Migration SETU Site Name               |
+| ---------------------------------------- | ------------------------------------------- |
+| HCI and Springboard Docs                 | WD HCI and Springboard Docs                 |
+| HCI and Springboard Supporting Documents | WD HCI and Springboard Supporting Documents |
+| IT Connect Hub                           | WD IT Connect Hub                           |
+| Software Downloads                       | WD Software Downloads                       |
