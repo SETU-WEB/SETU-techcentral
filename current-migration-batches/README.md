@@ -4,108 +4,98 @@ icon: dove
 
 # Current Migration Batches
 
+
+
 ## **MS Teams & SharePoint Migration**
 
-## **Date 20**th / 21st June
+## **Date 27**th / 28th June
 
 ### MS Teams
 
-| Current WIT Site name                                                 | Post Migration SETU Site Name                                            |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| RIAI Accreditation 2024                                               | WD RIAI Accreditation 2024                                               |
-| RICE Project SETU Waterford                                           | WD RICE Project SETU Waterford                                           |
-| RII Systems                                                           | WD RII Systems                                                           |
-| RIKON Commercial                                                      | WD RIKON Commercial                                                      |
-| RIKON Projects                                                        | WD RIKON Projects                                                        |
-| RISE - Roadmap for Inclusive Sustainable Education                    | WD RISE - Roadmap for Inclusive Sustainable Education                    |
-| RPG Quals Review Waterford SETU                                       | WD RPG Quals Review Waterford SETU                                       |
-| RPG Sponsor Details                                                   | WD RPG Sponsor Details                                                   |
-| RPL Triad 8                                                           | WD RPL Triad 8                                                           |
-| RPL\_2022                                                             | WD RPL\_2022                                                             |
-| SATLE Raising the Bar                                                 | WD SATLE Raising the Bar                                                 |
-| SCCM Videos                                                           | WD SCCM Videos                                                           |
-| School of Business - Student Information Area                         | WD School of Business - Student Information Area                         |
-| School of Business AACSB SETU                                         | WD School of Business AACSB SETU                                         |
-| School of Business PGR Research                                       | WD School of Business PGR Research                                       |
-| School Of Business Repeat Continuous Assessment                       | WD School Of Business Repeat Continuous Assessment                       |
-| School of Business Work Placement Team                                | WD School of Business Work Placement Team                                |
-| School of Engineering - Student Information Area                      | WD School of Engineering - Student Information Area                      |
-| School of Engineering Repository                                      | WD School of Engineering Repository                                      |
-| School of Health Science Management                                   | WD School of Health Science Management                                   |
-| School of Health Sciences External Examiners                          | WD School of Health Sciences External Examiners                          |
-| School of Health Sciences Postgraduates                               | WD School of Health Sciences Postgraduates                               |
-| School of Humanities - Student Information Area                       | WD School of Humanities - Student Information Area                       |
-| School of Humanities Management                                       | WD School of Humanities Management                                       |
-| School of Humanities Placement Working Group                          | WD School of Humanities Placement Working Group                          |
-| School of Science & Comp Committees                                   | WD School of Science & Comp Committees                                   |
-| Science Placement                                                     | WD Science Placement                                                     |
-| SeaLabHaus                                                            | WD SeaLabHaus                                                            |
-| SEAM                                                                  | WD SEAM                                                                  |
-| SEERLab                                                               | WD SEERLab                                                               |
-| Sentencing Perspectives Waterford SETU                                | WD Sentencing Perspectives Waterford SETU                                |
-| SERD                                                                  | WD SERD                                                                  |
-| SETU                                                                  | WD SETU                                                                  |
-| SETU Academy of Lean Enterprise Excellence                            | WD SETU Academy of Lean Enterprise Excellence                            |
-| SETU Case Study Group                                                 | WD SETU Case Study Group                                                 |
-| SETU CC 2022                                                          | WD SETU CC 2022                                                          |
-| SETU Computer Services WD                                             | WD SETU Computer Services WD                                             |
-| SETU Computer Services WD Health & Safety                             | WD SETU Computer Services WD Health & Safety                             |
-| SETU Educational Services WD                                          | WD SETU Educational Services WD                                          |
-| SETU Enhancement and Engagement Schemes                               | WD SETU Enhancement and Engagement Schemes                               |
-| SETU GSO                                                              | WD SETU GSO                                                              |
-| SETU HR Team                                                          | WD SETU HR Team                                                          |
-| SETU Library Systems                                                  | WD SETU Library Systems                                                  |
-| SETU SAF WD                                                           | WD SETU SAF WD                                                           |
-| SETU Site Software                                                    | WD SETU Site Software                                                    |
-| SETU Staff Hub WD                                                     | WD SETU Staff Hub WD                                                     |
-| SETU Strategy                                                         | WD SETU Strategy                                                         |
-| SETU Student Accommodation Taskforce                                  | WD SETU Student Accommodation Taskforce                                  |
-| SETU Student Domain                                                   | WD SETU Student Domain                                                   |
-| SETU Waterford Library                                                | WD SETU Waterford Library                                                |
-| SETUWebProject                                                        | WD SETUWebProject                                                        |
-| SFI Future Food Systems Challenge Waterford SETU                      | WD SFI Future Food Systems Challenge Waterford SETU                      |
-| SIPTU Committee                                                       | WD SIPTU Committee                                                       |
-| SIPTU Team Group                                                      | WD SIPTU Team Group                                                      |
-| Smart Headbands - monitoring Epileptic pre-symptoms SETU Waterford    | WD Smart Headbands - monitoring Epileptic pre-symptoms SETU Waterford    |
-| SOAR Enabling Transitions                                             | WD SOAR Enabling Transitions                                             |
-| SOBAAK SETU Waterford                                                 | WD SOBAAK SETU Waterford                                                 |
-| Social Care                                                           | WD Social Care                                                           |
-| Social Care and Early Childhood Students Events SETU Waterford        | WD Social Care and Early Childhood Students Events SETU Waterford        |
-| Social Club Committee                                                 | WD Social Club Committee                                                 |
-| SoE - Health & Safety (WD)                                            | WD SoE - Health & Safety (WD)                                            |
-| SoE Administration                                                    | WD SoE Administration                                                    |
-| SoE Management                                                        | WD SoE Management                                                        |
-| SoE TLA Committee                                                     | WD SoE TLA Committee                                                     |
-| SOE TLA Repository                                                    | WD SOE TLA Repository                                                    |
-| SoEll all Staff                                                       | WD SoEll all Staff                                                       |
-| SOELL Management                                                      | WD SOELL Management                                                      |
-| SOELL Research WG 3                                                   | WD SOELL Research WG 3                                                   |
-| Software Systems Development Info Area                                | WD Software Systems Development Info Area                                |
-| Software Systems Development Y3 Information Area                      | WD Software Systems Development Y3 Information Area                      |
-| SoH SoLLE Research Programme Board                                    | WD SoH SoLLE Research Programme Board                                    |
-| SOLAS Fee Details                                                     | WD SOLAS Fee Details                                                     |
-| SoLLE Staff                                                           | WD SoLLE Staff                                                           |
-| Space Management Committee                                            | WD Space Management Committee                                            |
-| SPARC                                                                 | WD SPARC                                                                 |
-| Spirit                                                                | WD Spirit                                                                |
-| Sports, Exercise, Health and Nutrition Careers Event                  | WD Sports, Exercise, Health and Nutrition Careers Event                  |
-| Spring 2024 BL SETU                                                   | WD Spring 2024 BL SETU                                                   |
-| Springboard Applications                                              | WD Springboard Applications                                              |
-| Strategic Working Group                                               | WD Strategic Working Group                                               |
-| Structured Doctorate                                                  | WD Structured Doctorate                                                  |
-| Structured PhD SE9AF - Dept of Nursing and Health Care SETU Waterford | WD Structured PhD SE9AF - Dept of Nursing and Health Care SETU Waterford |
-| Student Disciplinary Committee                                        | WD Student Disciplinary Committee                                        |
-| Student Entrepreneurial Awards                                        | WD Student Entrepreneurial Awards                                        |
-| Student Life and Learning                                             | WD Student Life and Learning                                             |
-| Student Records                                                       | WD Student Records                                                       |
-| Student Registration SETU Waterford                                   | WD Student Registration SETU Waterford                                   |
-| Student Stress Training E Mobile Management                           | WD Student Stress Training E Mobile Management                           |
+| Current WIT Site Name                                 | Post Migration SETU Site Name                            |
+| ----------------------------------------------------- | -------------------------------------------------------- |
+| Department of Nursing External Examiners              | WD Department of Nursing External Examiners              |
+| Department of Sport and Exercise Science              | WD Department of Sport and Exercise Science              |
+| Dept of Nursing & HC Final Exam Paper Submissions     | WD Dept of Nursing & HC Final Exam Paper Submissions     |
+| Humanities External Examiners                         | WD Humanities External Examiners                         |
+| EX Science\_Land Sciences                             | WD EX Science\_Land Sciences                             |
+| EX Social Care & Early Childcare                      | WD EX Social Care & Early Childcare                      |
+| EX Sports and Exercise Science                        | WD EX Sports and Exercise Science                        |
+| EX Accounting and Economics                           | WD EX Accounting and Economics                           |
+| EX Architecture                                       | WD EX Architecture                                       |
+| EX Arts                                               | WD EX Arts                                               |
+| EX BEng (Hons) Common Entry                           | WD EX BEng (Hons) Common Entry                           |
+| EX Built Environment                                  | WD EX Built Environment                                  |
+| EX Computing and Maths                                | WD EX Computing and Maths                                |
+| EX Education                                          | WD EX Education                                          |
+| EX Engineering Technology                             | WD EX Engineering Technology                             |
+| EX Graduate Business                                  | WD EX Graduate Business                                  |
+| EX Humanities                                         | WD EX Humanities                                         |
+| EX International Office                               | WD EX International Office                               |
+| EX Law & Criminal Justice                             | WD EX Law & Criminal Justice                             |
+| EX Lifelong Learning                                  | WD EX Lifelong Learning                                  |
+| EX Management and Organisation                        | WD EX Management and Organisation                        |
+| Reprographics Team                                    | WD Reprographics Team                                    |
+| Students Union SETU WD                                | WD Students Union SETU WD                                |
+| Sustainability Open Course                            | WD Sustainability Open Course                            |
+| Sustainable Science Committee WD                      | WD Sustainable Science Committee WD                      |
+| Teams Classroom Test                                  | WD Teams Classroom Test                                  |
+| Teams Community of Practice                           | WD Teams Community of Practice                           |
+| Teams Test course creation - Cathal                   | WD Teams Test course creation - Cathal                   |
+| Technology Gateway Operations Committee               | WD Technology Gateway Operations Committee               |
+| Teenage girls and social media literacy SERD 2021 PhD | WD Teenage girls and social media literacy SERD 2021 PhD |
+| TeengirlSML                                           | WD TeengirlSML                                           |
+| TESOL1                                                | WD TESOL1                                                |
+| test                                                  | WD test                                                  |
+| test                                                  | WD test                                                  |
+| test Class                                            | WD test Class                                            |
+| test club                                             | WD test club                                             |
+| The Art of Innovation SETU Waterford                  | WD The Art of Innovation SETU Waterford                  |
+| The Blenders                                          | WD The Blenders                                          |
+| The Feminist Project Waterford SETU                   | WD The Feminist Project Waterford SETU                   |
+| The Francis Project Waterford SETU                    | WD The Francis Project Waterford SETU                    |
+| The Reading Project Waterford SETU                    | WD The Reading Project Waterford SETU                    |
+| The SC Education Project SETU Waterford               | WD The SC Education Project SETU Waterford               |
+| The Touch Project SETU Waterford                      | WD The Touch Project SETU Waterford                      |
+| TickerTape Remote Session                             | WD TickerTape Remote Session                             |
+| Timetables SETU Waterford                             | WD Timetables SETU Waterford                             |
+| TU Graduate Studies Regulations                       | WD TU Graduate Studies Regulations                       |
+| TU Marcomms                                           | WD TU Marcomms                                           |
+| TU PMSS IR Facilitator Portal                         | WD TU PMSS IR Facilitator Portal                         |
+| TUI Team Group                                        | WD TUI Team Group                                        |
+| TUSEI                                                 | WD TUSEI                                                 |
+| TUSEI Audit Data File                                 | WD TUSEI Audit Data File                                 |
+| TUSEI Forum Vision, Mission and Values Group          | WD TUSEI Forum Vision, Mission and Values Group          |
+| TUSEI Priorities for Investment workgroup             | WD TUSEI Priorities for Investment workgroup             |
+| TUSEI Workstream Meeting Tracker                      | WD TUSEI Workstream Meeting Tracker                      |
+| UAVsec                                                | WD UAVsec                                                |
+| UDL Badge WIT                                         | WD UDL Badge WIT                                         |
+| UI Green Metric World University Rankings             | WD UI Green Metric World University Rankings             |
+| UNESCO Learning City Proposal                         | WD UNESCO Learning City Proposal                         |
+| UNITE Team Group                                      | WD UNITE Team Group                                      |
+| URDF                                                  | WD URDF                                                  |
+| Urinary Incontinence Study Waterford SETU             | WD Urinary Incontinence Study Waterford SETU             |
+| Using Adobe Connect                                   | WD Using Adobe Connect                                   |
+| Video Chat Team Updated                               | WD Video Chat Team Updated                               |
+| VIPOP                                                 | WD VIPOP                                                 |
+| WASH LANE ISSUES                                      | WD WASH LANE ISSUES                                      |
+| Waterford Book Project                                | WD Waterford Book Project                                |
+| WD AV Repository                                      | WD WD AV Repository                                      |
+| WD Subject Area (Electrical) – External Examiner      | WD WD Subject Area (Electrical) – External Examiner      |
+| WD\_OTRG Group                                        | WD WD\_OTRG Group                                        |
+| WD\_Student Counselling Services                      | WD WD\_Student Counselling Services                      |
+| WILPA                                                 | WD WILPA                                                 |
+| WIT Advanced Entry                                    | WD WIT Advanced Entry                                    |
+| WIT Art Committee                                     | WD WIT Art Committee                                     |
+| WIT Careers Centre                                    | WD WIT Careers Centre                                    |
+| WIT Electricians                                      | WD WIT Electricians                                      |
+| WIT Libraries                                         | WD WIT Libraries                                         |
+| WIT R Working Group                                   | WD WIT R Working Group                                   |
+| WIT Staff Beginners' Irish                            | WD WIT Staff Beginners' Irish                            |
+| WIT Udaras Co-Fund                                    | WD WIT Udaras Co-Fund                                    |
 
 ### SharePoint
 
-| Current WIT Site name                    | Post Migration SETU Site Name               |
-| ---------------------------------------- | ------------------------------------------- |
-| HCI and Springboard Docs                 | WD HCI and Springboard Docs                 |
-| HCI and Springboard Supporting Documents | WD HCI and Springboard Supporting Documents |
-| IT Connect Hub                           | WD IT Connect Hub                           |
-| Software Downloads                       | WD Software Downloads                       |
+| Current WIT Site name | Post Migration SETU Site Name |
+| --------------------- | ----------------------------- |
+| Walton FAQ            | WD Walton FAQ                 |
